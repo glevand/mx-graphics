@@ -91,6 +91,7 @@ The result.
 
 ![rm250](readme-files/rm250.png)
 ![rm250](readme-files/rm250-at-diablo.png)
+![rm250](readme-files/rm250-at-hangtown.png)
 
 ## Licence & Usage
 
