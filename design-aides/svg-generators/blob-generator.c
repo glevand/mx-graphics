@@ -737,6 +737,7 @@ int main(int argc, char *argv[])
 
 	mem_free(palette.colors);
 
+	printf("%s: Success\n", program_name);
 	return EXIT_SUCCESS;
 }
 
