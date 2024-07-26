@@ -21,4 +21,4 @@ Fork Guard graphic fits 2004-2008
 
 ## Licence & Usage
 
-All files in the [mx-graphics project](https://github.com/moto-design/mx-graphics), unless otherwise noted, are covered by the [Fabricators Design License](https://github.com/moto-design/mx-graphics/blob/master/fabricators-design-license.txt).  The text of the license describes what usage is allowed, and what obligations users have if they choose to use any files.
+All files in the [mx-graphics project](https://github.com/glevand/mx-graphics), unless otherwise noted, are covered by the [Fabricators Design License](https://github.com/glevand/mx-graphics/blob/master/fabricators-design-license.txt).  The text of the license describes what usage is allowed, and what obligations users have if they choose to use any files.
